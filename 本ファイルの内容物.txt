@@ -5,3 +5,13 @@
 
 compareが本家ページのソースからコピペ
 dlが配布物の選択
+
+
+github pageでhttpsとして活動できるらしい。
+https://github.com/kasu6/voip_js
+
+
+https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
+
+pages状態のページ
+https://kasu6.github.io/voip_js/
