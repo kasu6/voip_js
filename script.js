@@ -73,8 +73,8 @@ function addVideo(call,stream){
 
 //ビデオ要素の削除
 function removeVideo(peerId){
-    //$('#'+peerId).remove();
-    $('#their-video').get(0).srcObject = undefined;
+    $('#'+peerId).remove();
+    //$('#their-video').get(0).srcObject = undefined;
 }
 //ボタンの表示と非表示
 function setupMakeCallUI(){
