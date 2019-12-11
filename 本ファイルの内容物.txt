@@ -15,3 +15,7 @@ https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
 
 pages状態のページ
 https://kasu6.github.io/voip_js/
+
+yahooでアカウント
+APIキー
+452b47dd-b0d8-479e-a3d4-941e53e2419d
