@@ -16,7 +16,7 @@ navigator.mediaDevices.getUserMedia({video: true, audio: true})
 });
 //APIkey,これでskywayのサービスが利用可能になる
 peer = new Peer({
-    key: '452b47dd-b0d8-479e-a3d4-941e53e2419d',
+    key: '',
     debug: 3
 });
 //発火処理。これで通話の利用が可能となるので相手のIDを表示するように
