@@ -29,6 +29,8 @@ peer.on('error', function(err){
 });
 peer.on('close', function(){
 });
+peer.on('disconnected', function(){
+});
 //ボタンを押すと発信処理
 $('#make-call').submit(function(e){
     e.preventDefault();
