@@ -27,7 +27,8 @@ peer.on('open', function(){
 peer.on('error', function(err){
     alert(err.message);
 });
-
+peer.on('close', function(){
+});
 //ボタンを押すと発信処理
 $('#make-call').submit(function(e){
     e.preventDefault();
