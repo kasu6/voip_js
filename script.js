@@ -45,11 +45,12 @@ peer.on('call', function(call){
 });
 //競合を阻止する。先に来た接続を維持しつつ、後から来た接続要求を優先する。
 function setupCallEventHandlers(call){
-    if (existingCall) {
+  /*  if (existingCall) {
         existingCall.close();
     };
 
     existingCall = call;
+    */
 //相手からの映像と音声が来たら、それぞれ発火
     call.on('stream', function(stream){
         addVideo(call,stream);
