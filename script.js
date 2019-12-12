@@ -28,14 +28,6 @@ peer.on('error', function(err){
     alert(err.message);
 });
 
-/*
-//接続が切れたとき。今回は何もしない
-peer.on('close', function(){
-});
-
-peer.on('disconnected', function(){
-});
-*/
 //ボタンを押すと発信処理
 $('#make-call').submit(function(e){
     e.preventDefault();
