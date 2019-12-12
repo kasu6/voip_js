@@ -1,21 +1,20 @@
-ƒf[ƒ^‚Ískyway ‚Ìjs‚©‚ç‚Æ‚Á‚Ä‚«‚½B
+ãƒ‡ãƒ¼ã‚¿ã¯skyway ã®jsã‹ã‚‰ã¨ã£ã¦ããŸã€‚
 
 
--1‚Í‘½•ªO–ì‚Ì’u‚«“yYBhtml‚Í–{‘Ì‚Ìƒ}ƒ‹ƒRƒs‚ÅAjs‚ªƒVƒ“ƒvƒ‹B
+-1ã¯å¤šåˆ†ä¸‰é‡ã®ç½®ãåœŸç”£ã€‚htmlã¯æœ¬ä½“ã®ãƒãƒ«ã‚³ãƒ”ã§ã€jsãŒã‚·ãƒ³ãƒ—ãƒ«ã€‚
 
-compare‚ª–{‰Æƒy[ƒW‚Ìƒ\[ƒX‚©‚çƒRƒsƒy
-dl‚ª”z•z•¨‚Ì‘I‘ğ
+compareãŒæœ¬å®¶ãƒšãƒ¼ã‚¸ã®ã‚½ãƒ¼ã‚¹ã‹ã‚‰ã‚³ãƒ”ãƒš
+dlãŒé…å¸ƒç‰©ã®é¸æŠ
 
 
-github page‚Åhttps‚Æ‚µ‚ÄŠˆ“®‚Å‚«‚é‚ç‚µ‚¢B
+github pageã§httpsã¨ã—ã¦æ´»å‹•ã§ãã‚‹ã‚‰ã—ã„ã€‚
 https://github.com/kasu6/voip_js
 
 
 https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
 
-pagesó‘Ô‚Ìƒy[ƒW
+pagesçŠ¶æ…‹ã®ãƒšãƒ¼ã‚¸
 https://kasu6.github.io/voip_js/
 
-yahoo‚ÅƒAƒJƒEƒ“ƒg
-APIƒL[
-452b47dd-b0d8-479e-a3d4-941e53e2419d
+yahooã§ã‚¢ã‚«ã‚¦ãƒ³ãƒˆ
+APIã‚­ãƒ¼
